@@ -1,0 +1,1 @@
+g++ -o Camera3D main.cpp -lsfml-window -lsfml-system -lGL -lGLU

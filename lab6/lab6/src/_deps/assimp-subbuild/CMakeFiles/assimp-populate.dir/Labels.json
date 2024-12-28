@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/CMakeFiles/assimp-populate"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/CMakeFiles/assimp-populate.rule"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/CMakeFiles/assimp-populate-complete.rule"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-build.rule"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-configure.rule"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-download.rule"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-install.rule"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-patch.rule"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-test.rule"
+		},
+		{
+			"file" : "/home/teoblow/\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u044b/study/CG/lab6/src/_deps/assimp-subbuild/assimp-populate-prefix/src/assimp-populate-stamp/assimp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"assimp-populate"
+		],
+		"name" : "assimp-populate"
+	}
+}

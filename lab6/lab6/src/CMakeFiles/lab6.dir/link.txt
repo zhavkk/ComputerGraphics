@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic -Wl,--dependency-file=CMakeFiles/lab6.dir/link.d CMakeFiles/lab6.dir/main.o -o lab6   -L/home/teoblow/Программы/study/CG/lab6/src/engine  engine/libcomputer-graphics-engine.a -lsfml-graphics -lsfml-system -lsfml-window /usr/lib/libGL.so /usr/lib/libGLEW.so -lassimp

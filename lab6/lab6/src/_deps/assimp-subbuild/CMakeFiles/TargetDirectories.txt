@@ -1,0 +1,3 @@
+/home/teoblow/Программы/study/CG/lab6/src/_deps/assimp-subbuild/CMakeFiles/assimp-populate.dir
+/home/teoblow/Программы/study/CG/lab6/src/_deps/assimp-subbuild/CMakeFiles/edit_cache.dir
+/home/teoblow/Программы/study/CG/lab6/src/_deps/assimp-subbuild/CMakeFiles/rebuild_cache.dir

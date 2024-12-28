@@ -1,0 +1,13 @@
+IncludeCategories:
+  - Regex: '.*glew.h'
+    Priority: 1
+  - Regex: '.*gl.h'
+    Priority: 2
+  - Regex: '.*'
+    Priority: 3
+SortIncludes: true
+TabWidth: 4
+IndentWidth: 4
+IncludeBlocks: Regroup
+IndentGotoLabels: true
+KeepEmptyLinesAtTheStartOfBlocks: true
