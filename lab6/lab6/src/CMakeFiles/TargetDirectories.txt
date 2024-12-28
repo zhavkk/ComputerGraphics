@@ -1,6 +1,0 @@
-/home/teoblow/Программы/study/CG/lab6/src/CMakeFiles/lab6.dir
-/home/teoblow/Программы/study/CG/lab6/src/CMakeFiles/edit_cache.dir
-/home/teoblow/Программы/study/CG/lab6/src/CMakeFiles/rebuild_cache.dir
-/home/teoblow/Программы/study/CG/lab6/src/engine/CMakeFiles/computer-graphics-engine.dir
-/home/teoblow/Программы/study/CG/lab6/src/engine/CMakeFiles/edit_cache.dir
-/home/teoblow/Программы/study/CG/lab6/src/engine/CMakeFiles/rebuild_cache.dir
